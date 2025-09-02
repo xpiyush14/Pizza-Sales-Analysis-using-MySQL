@@ -10,23 +10,23 @@ This project is a data analysis of pizza sales using MySQL, where I explored sal
 6.) Determine the top revenue-generating pizzas
 
 # Steps Taken
-1.) Data Collection
+# 1.) Data Collection
 Dataset obtained from Kaggle Pizza Sales Dataset.
 Imported data into MySQL for querying and analysis.
 
-2.) Basic Analysis
+# 2.) Basic Analysis
 Retrieved total number of orders placed.
 Calculated total revenue generated.
 Identified the highest-priced pizza.
 Found the most common pizza size ordered.
 Listed top 5 most ordered pizzas by quantity.
 
-3.) Intermediate Analysis
+# 3.) Intermediate Analysis
 Joined tables to find total quantity ordered per category.
 Analyzed order distribution by hour of the day.
 Explored category-wise pizza distribution.
 
-4.) Advanced Analysis
+# 4.) Advanced Analysis
 Calculated each pizza type’s percentage contribution to revenue.
 Analyzed cumulative revenue trends over time.
 Found the top 3 revenue-generating pizzas for each category.
